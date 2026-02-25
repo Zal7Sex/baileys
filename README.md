@@ -1,4 +1,4 @@
-# WhatsApp Baileys
+# Zal7Sex ─ WhatsApp Baileys
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zal7Sex/client/refs/heads/main/thumbnail.png" alt="Thumbnail" />
